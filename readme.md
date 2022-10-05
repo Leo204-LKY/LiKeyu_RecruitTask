@@ -3,3 +3,11 @@
 学院学的 Python （目前）和 Java （大二），希望能自学一点 C++ （同时通过考核）吧。  
 
 本仓库用于 [AzureSpace](https://github.com/AzureSpace531) 社团招新考核任务提交。  
+
+### 进度汇报  
+| 日期 | 学习过程 | 遇到问题 | 解决过程 |  
+| --- | --- | --- | --- |  
+| N/A | N/A | N/A | N/A |  
+
+### Shortcuts
+[招新任务介绍仓库](https://github.com/AzureSpace531/RecruitTask_22_9)
