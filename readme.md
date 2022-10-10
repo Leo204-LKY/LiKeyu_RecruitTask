@@ -10,5 +10,5 @@
 | N/A | N/A | N/A | N/A |  
 
 ### Shortcuts
-[招新任务介绍仓库](https://github.com/AzureSpace531/RecruitTask_22_9)
-[电控组介绍及任务仓库](https://github.com/AzureSpace531/EC_Group)
+[招新任务介绍仓库](https://github.com/AzureSpace531/RecruitTask_22_9)  
+[电控组介绍及任务仓库](https://github.com/AzureSpace531/EC_Group)  
