@@ -7,7 +7,8 @@
 ### 进度汇报  
 | 日期 | 学习过程 | 遇到问题 | 解决过程 |  
 | --- | --- | --- | --- |  
-| N/A | N/A | N/A | N/A |  
+| 09/28 | 1. 安装 MinGW-w64 ，在 VS Code 中配置 C/C++ 语言环境<br>2. 在 VS Code 中运行示例 C++ 语言程序   | - | - |
+| 10/10 | 1. 在 VS Code 中运行示例 C 语言程序<br>2. 在慕课中初步认识 C 语言，学习 C 语言的基础语法  | 使用 MinGW-w64 编译运行程序时，终端没有输出代码执行时间 | 尝试将编译器换成 TDM-GCC ，未能解决问题；必应查找相关资料后，在 VS Code 中安装 `Code Runner` 扩展插件，解决问题 |  
 
 ### Shortcuts
 [招新任务介绍仓库](https://github.com/AzureSpace531/RecruitTask_22_9)  
