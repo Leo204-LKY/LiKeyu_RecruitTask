@@ -4,6 +4,9 @@
 
 本仓库用于 [AzureSpace](https://github.com/AzureSpace531) 社团招新考核任务提交。  
 
+### 编程学习记录  
+编程学习记录将事实更新，详见 [Leo204_LKY/Code-Learning](https://github.com/Leo204-LKY/Code-Learning) 。  
+
 ### 进度汇报  
 | 日期 | 学习过程 | 遇到问题 | 解决过程 |  
 | --- | --- | --- | --- |  
@@ -14,6 +17,9 @@
 | 10/13 | 1. 在慕课中继续学习 C 语言<br>2. 参加 [CSOJ](http://csoj.scnu.edu.cn/) “[2022 CS杯资格赛 \| 网络预选赛](http://csoj.scnu.edu.cn/contest/71)”(关于比赛参与情况，我在 [#3](https://github.com/Leo204-LKY/LiKeyu_RecruitTask/issues/3) 中进行了记录) | - | - |  
 | *10/14* | *未进行学习* | - | - |  
 | *10/15* | *未进行学习* | - | - |  
+| 10/16 | 1. 在慕课中继续学习 C 语言<br>2. 购买 STC89C52 开发板，等待收货 | - | - |  
+| 10/17 | 1. 在慕课中继续学习 C 语言<br>2. 创建新仓库 [Leo204_LKY/Code-Learning](https://github.com/Leo204-LKY/Code-Learning) ，用于记录编程学习情况 | - | - |  
+
 
 ### 学习指引完成情况  
 - [ ] C语言  
