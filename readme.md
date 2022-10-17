@@ -5,7 +5,7 @@
 本仓库用于 [AzureSpace](https://github.com/AzureSpace531) 社团招新考核任务提交。  
 
 ### 编程学习记录  
-编程学习记录将事实更新，详见 [Leo204_LKY/Code-Learning](https://github.com/Leo204-LKY/Code-Learning) 。  
+编程学习记录将实时更新，详见 [Leo204_LKY/Code-Learning](https://github.com/Leo204-LKY/Code-Learning) 。  
 
 ### 进度汇报  
 | 日期 | 学习过程 | 遇到问题 | 解决过程 |  
