@@ -5,7 +5,7 @@
 本仓库用于 [AzureSpace](https://github.com/AzureSpace531) 社团招新考核任务提交。  
 
 ### 编程学习记录  
-编程学习记录将实时更新，详见 [Leo204_LKY/Code-Learning](https://github.com/Leo204-LKY/Code-Learning) 。  
+编程学习记录将实时更新，详见 [Leo204-LKY/Code-Learning](https://github.com/Leo204-LKY/Code-Learning) 。  
 
 ### 进度汇报  
 | 日期 | 学习过程 | 遇到问题 | 解决过程 |  
@@ -18,7 +18,7 @@
 | *10/14* | *未进行学习* | - | - |  
 | *10/15* | *未进行学习* | - | - |  
 | 10/16 | 1. 在慕课中继续学习 C 语言<br>2. 购买 STC89C52 开发板，等待收货 | - | - |  
-| 10/17 | 1. 在慕课中继续学习 C 语言<br>2. 创建新仓库 [Leo204_LKY/Code-Learning](https://github.com/Leo204-LKY/Code-Learning) ，用于记录编程学习情况 | - | - |  
+| 10/17 | 1. 在慕课中继续学习 C 语言，完成第二周（计算）课程<br>2. 创建新仓库 [Leo204-LKY/Code-Learning](https://github.com/Leo204-LKY/Code-Learning) ，用于记录编程学习情况 | - | - |  
 
 
 ### 学习指引完成情况  
@@ -35,6 +35,7 @@
   - [ ] 51单片机  
 
 ### Shortcuts
+[Leo204-LKY/Code-Learning](https://github.com/Leo204-LKY/Code-Learning)  
 [招新任务介绍仓库](https://github.com/AzureSpace531/RecruitTask_22_9)  
 [电控组介绍及任务仓库](https://github.com/AzureSpace531/EC_Group)  
 [程序设计入门——C语言 - 中国大学 MOOC](https://www.icourse163.org/course/ZJU-199001)  
