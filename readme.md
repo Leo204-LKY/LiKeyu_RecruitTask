@@ -40,3 +40,4 @@
 [招新任务介绍仓库](https://github.com/AzureSpace531/RecruitTask_22_9)  
 [电控组介绍及任务仓库](https://github.com/AzureSpace531/EC_Group)  
 [程序设计入门——C语言 - 中国大学 MOOC](https://www.icourse163.org/course/ZJU-199001)  
+[51单片机入门教程-2020版 程序全程纯手打 从零开始入门 - bilibili](https://b23.tv/BV1Mb411e7re)
