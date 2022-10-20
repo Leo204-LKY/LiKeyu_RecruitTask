@@ -11,7 +11,7 @@
 | 日期 | 学习过程 | 遇到问题 | 解决过程 |  
 | --- | --- | --- | --- |  
 | 09/28 | 1. 安装 MinGW-w64 ，在 VS Code 中配置 C/C++ 语言环境<br>2. 在 VS Code 中运行示例 C++ 语言程序   | - | - |
-| 10/10 | 1. 在 VS Code 中运行示例 C 语言程序<br>2. 在慕课中初步认识 C 语言，学习 C 语言的基础语法  | 使用 MinGW-w64 编译运行程序时，终端没有输出代码执行时间 | 尝试将编译器换成 TDM-GCC ，未能解决问题；必应查找相关资料后，在 VS Code 中安装 `Code Runner` 扩展插件，解决问题<br>（后来发现 Code Runner 默认在 VS Code 的“输出”部分显示运行时间，此时因为输出为只读，无法进行输入操作[如下图]；而如果配置 Code Runner 在终端中运行，则无法显示程序运行时间，最终放弃尝试同时满足以上两个要求，仅在需要时选择对应运行方式）<br><img width="542" alt="image" src="https://user-images.githubusercontent.com/57821066/195294895-e44cb0e0-8346-4df8-9f83-464edc1a745f.png"> |  
+| 10/10 | 1. 在 VS Code 中运行示例 C 语言程序<br>2. 在慕课中初步认识 C 语言，学习 C 语言的基础语法  | 使用 MinGW-w64 编译运行程序时，终端没有输出代码执行时间 | 尝试将编译器换成 TDM-GCC ，未能解决问题；必应查找相关资料后，在 VS Code 中安装 `Code Runner` 扩展插件，解决问题<br>（后来发现 Code Runner 默认在 VS Code 的“输出”部分显示运行时间，此时因为输出为只读，无法进行输入操作[如下图]；而如果配置 Code Runner 在终端中运行，则无法显示程序运行时间，最终放弃尝试同时满足以上两个要求，仅在需要时选择对应运行方式）<br><img width="400" alt="image" src="https://user-images.githubusercontent.com/57821066/195294895-e44cb0e0-8346-4df8-9f83-464edc1a745f.png"> |  
 | 10/11 | 在慕课中继续学习 C 语言 | - | - |  
 | *10/12* | *今日课程较满，休息一天* | - | - |  
 | 10/13 | 1. 在慕课中继续学习 C 语言<br>2. 参加 [CSOJ](http://csoj.scnu.edu.cn/) “[2022 CS杯资格赛 \| 网络预选赛](http://csoj.scnu.edu.cn/contest/71)”(关于比赛参与情况，我在 [#3](https://github.com/Leo204-LKY/LiKeyu_RecruitTask/issues/3) 中进行了记录) | - | - |  
@@ -21,7 +21,7 @@
 | 10/17 | 1. 在慕课中继续学习 C 语言，完成第二周（计算）课程<br>2. 创建新仓库 [Leo204-LKY/Code-Learning](https://github.com/Leo204-LKY/Code-Learning) ，用于记录编程学习情况 | - | - |  
 | 10/18 | 在慕课中继续学习 C 语言 | - | - |  
 | 10/19 | 单片机收货，在 B 站上开始学习 [51 单片机入门教程](https://b23.tv/BV1Mb411e7re)<br>1. 按照视频内容安装 Keil μVision 5 、 STC-ISP ;驱动程序系统已经自动识别并安装，无需额外安装<br>2. 初步学习并了解单片机 | - | - |  
-| 10/20 | 继续学习单片机，对购买的 51 单片机各项功能有了基本的了解 | - | - |  
+| 10/20 | 继续学习单片机，成功编写、烧录程序点亮 LED 灯<br><img width="650" alt="image" src="https://user-images.githubusercontent.com/57821066/197017070-9a6a0429-6bf8-46a3-aeea-e20ba6e427a3.png"> | - | - |  
 
 ### 学习指引完成情况  
 - [ ] C语言  
