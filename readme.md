@@ -21,7 +21,7 @@
 | 10/17 | 1. 在慕课中继续学习 C 语言，完成第二周（计算）课程<br>2. 创建新仓库 [Leo204-LKY/Code-Learning](https://github.com/Leo204-LKY/Code-Learning) ，用于记录编程学习情况 | - | - |  
 | 10/18 | 在慕课中继续学习 C 语言 | - | - |  
 | 10/19 | 单片机收货，在 B 站上开始学习 [51 单片机入门教程](https://b23.tv/BV1Mb411e7re)<br>1. 按照视频内容安装 Keil μVision 5 、 STC-ISP ;驱动程序系统已经自动识别并安装，无需额外安装<br>2. 初步学习并了解单片机 | - | - |  
-| 10/20 | 继续学习单片机，成功编写、烧录程序点亮 LED 灯<br><img width="650" alt="image" src="https://user-images.githubusercontent.com/57821066/197017070-9a6a0429-6bf8-46a3-aeea-e20ba6e427a3.png"> | - | - |  
+| 10/20 | 继续学习单片机，成功编写、烧录程序点亮 LED 灯 | - | - |  
 | 10/21 | 继续学习单片机，完成第 2 章（LED）课程 | - | - |  
 | 10/22 | 1. 继续学习单片机<br>2. 完成 [任务 1](https://github.com/Leo204-LKY/LiKeyu_RecruitTask/tree/main/Assessment_Tasks/Task_1) | 使用外部中断 0 触发中断时，会因红外接收模块干扰导致未按下按键时 LED 闪烁 | 将触发中断 0 改为触发中断 1<br>具体的问题发现与解决过程，详见 [/Assessment_Tasks/readme.md#任务-1](https://github.com/Leo204-LKY/LiKeyu_RecruitTask/tree/main/Assessment_Tasks#%E4%BB%BB%E5%8A%A1-1) |  
 
