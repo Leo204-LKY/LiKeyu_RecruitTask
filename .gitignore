@@ -1,0 +1,6 @@
+*.exe
+*.uvgui.*
+*.uvopt
+
+Objects/
+Listings/
