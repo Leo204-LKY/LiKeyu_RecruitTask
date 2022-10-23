@@ -1,9 +1,9 @@
 #include <REGX52.H>
 #include <INTRINS.H>
 
-void Delay(unsigned int xms)		//@12.000MHz, Delay [xms] ms£¬¶¨Ê±Æ÷Òç³öÖÐ¶Ï
+void Delay(unsigned int xms)		//@12.000MHz, Delay [xms] msï¿½ï¿½ï¿½ï¿½Ê±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð¶ï¿½
 {
-	unsigned char i, j;
+  unsigned char i, j;
   while(xms)
   {
 	  i = 2;
@@ -18,16 +18,16 @@ void Delay(unsigned int xms)		//@12.000MHz, Delay [xms] ms£¬¶¨Ê±Æ÷Òç³öÖÐ¶Ï
 
 void main()
 {
-	EA = 1;  // ÔÊÐíÖÐ¶Ï
-	EX1 = 1; // ÔÊÐíÍâ²¿ÖÐ¶Ï 1 ÖÐ¶Ï
-	IT1 = 1; // ÏÂ½µÑØ´¥·¢£¬P3_3 Òý½ÅµçÆ½ÏÂ½µÊ±(¼´°´ÏÂ K4 °´¼ü¹ý³ÌÖÐ)´¥·¢ÖÐ¶Ï
+	EA = 1;  // ï¿½ï¿½ï¿½ï¿½ï¿½Ð¶ï¿½
+	EX1 = 1; // ï¿½ï¿½ï¿½ï¿½ï¿½â²¿ï¿½Ð¶ï¿½ 1 ï¿½Ð¶ï¿½
+	IT1 = 1; // ï¿½Â½ï¿½ï¿½Ø´ï¿½ï¿½ï¿½ï¿½ï¿½P3_3 ï¿½ï¿½ï¿½Åµï¿½Æ½ï¿½Â½ï¿½Ê±(ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ K4 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½)ï¿½ï¿½ï¿½ï¿½ï¿½Ð¶ï¿½
 	while(1)
 	{
 		P2_0 = 1;
 	}
 }
 
-void Flash() interrupt 0 // ÖÐ¶Ï·þÎñ³ÌÐò£¬ÖÐ¶ÏºÅ 0
+void Flash() interrupt 0 // ï¿½Ð¶Ï·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð¶Ïºï¿½ 0
 {
 	int i;
 	for(i=0;i<3;i++)
