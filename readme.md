@@ -26,6 +26,8 @@
 | 10/22 | 1. 继续学习单片机<br>2. 完成 [任务 1](https://github.com/Leo204-LKY/LiKeyu_RecruitTask/tree/main/Assessment_Tasks/Task_1) | 使用外部中断 0 触发中断时，会因红外接收模块干扰导致未按下按键时 LED 闪烁 | 将触发中断 0 改为触发中断 1<br>具体的问题发现与解决过程，详见 [/Assessment_Tasks/readme.md#任务-1](https://github.com/Leo204-LKY/LiKeyu_RecruitTask/tree/main/Assessment_Tasks#%E4%BB%BB%E5%8A%A1-1) |  
 | *10/23* | *未进行学习* | - | - |  
 | 10/24 | *今天是 1024 程序员节，祝各位程序员节日快乐 (还是希望自己以后不要**只**是个码农…)*<br>在慕课中继续学习 C 语言，完成第 3 周（判断与循环）课程 | - | - |  
+| 10/25 | 在慕课中继续学习 C 语言 | - | - |  
+| *10/26* | *未进行学习* | - | - |  
 
 ### 学习指引完成情况  
 - [ ] C语言  
